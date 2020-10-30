@@ -36,3 +36,5 @@ Crie um serviço compartilhado para reunir os heróis.
 Use o roteamento para navegar entre as diferentes vistas e seus componentes. 
 
 Você aprenderá o Angular o suficiente para começar e ganhará a confiança de que o Angular pode fazer tudo o que você precisar.
+
+Referência: https://angular.io/tutorial
